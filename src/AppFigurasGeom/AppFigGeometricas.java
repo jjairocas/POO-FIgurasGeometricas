@@ -18,7 +18,7 @@ public class AppFigGeometricas extends JFrame{
 
     public AppFigGeometricas() {
         setContentPane(MainPanel);
-        setTitle("Calculo Horas Trabajadas Empleado");
+        setTitle("Figuras Geometricas");
         setSize(500, 300);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setVisible(true);
